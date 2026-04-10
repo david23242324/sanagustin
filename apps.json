@@ -310,6 +310,19 @@
     "url": "https://drive.google.com/file/d/1bWfiHT0JlOMFEJWx-u4Jn0hZUelbMtdU/view?usp=drive_link"
   },
   {
+    "nombreapp": "Naruto-API",
+    "descripcion": "Una app diseñada para la diversión y entrenamiento de tu propio personaje del anime.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/6422/6422407.png ",
+    "grupo": "Viernes",
+    "fecha": "2026-04-10",
+    "id": 1,
+    "integrantes": [
+      "Juan David Martínez Niño", "David Sarmiento", "Matías Ramirez"
+    ],
+    "actividad": "Trabajo Trio de API",
+    "url": "https://drive.google.com/file/d/18WchgWswbZd0BxrPn6GHEbxu-fg_O0S3/view?usp=drive_link"
+  },
+  {
     "nombreapp": "Alarma con Propósito",
     "descripcion": "Simula una aplicación de una alarma usand HTML, CSS y JavaScript, usando elementos visuales unicos",
     "icono": "https://cdn-icons-png.flaticon.com/512/2972/2972531.png",

@@ -697,5 +697,18 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "Appotter",
+    "descripcion": "Es una app enfocada en el mundo magico de Hogwarts en donde podrás ver detalles exactos de tus personajes favoritos y podrás saber a que casa mágica perteneces",
+    "icono": "https://cdn-icons-png.flaticon.com/512/10440/10440799.png",
+    "grupo": "viernes",
+    "fecha": "2026-04-04",
+    "id": 1,
+    "integrantes": [
+      "David Sarmiento"
+    ],
+    "actividad": "App de API individual",
+    "url": "https://drive.google.com/file/d/1ltLEPTS8QNCs_L1Wj---A2jPAMmtB1VK/view?usp=drive_link"
   }
 ]
